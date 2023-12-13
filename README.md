@@ -30,9 +30,10 @@
 | [raysarecul](https://github.com/lulvz/raysarecul) | Ray tracer in c++. |
 
 </p>
+<!-- 
+## <picture><img src = "https://i.imgur.com/L16RdNI.gif" width = 50px></picture> **University Projects** -->
 
-## <picture><img src = "https://i.imgur.com/L16RdNI.gif" width = 50px></picture> **University Projects**
-
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
