@@ -25,9 +25,9 @@
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [simple_16bit_LFSR](https://github.com/lulvz/simple_16bit_LFSR) | Modular implementation of a 16-bit Linear Feedback Shift Register (LFSR) |
-| [leaguebot](https://github.com/lulvz/leaguebot) | LeagueBot is a voice-controlled bot for the popular online game, League of Legends. It is designed with modularity in mind, allowing for easy extension and addition of new champions. |
-| [gatetool](https://github.com/lulvz/gatetool) | Raspberry pi focused automatic gate opener. Uses rpitx and Golang for the backend, and provides api endpoints to select from multiple gates that have been setup. |
-| [raysarecul](https://github.com/lulvz/raysarecul) | Ray tracer in c++. |
+| [leaguebot](https://github.com/lulvz/leaguebot) | LeagueBot is a voice-controlled bot for the popular online game, League of Legends. It is designed with modularity in mind, allowing for easy extension and addition of new champions |
+| [gatetool](https://github.com/lulvz/gatetool) | Raspberry pi focused automatic gate opener. Uses rpitx and Golang for the backend, and provides api endpoints to select from multiple gates that have been setup |
+| [raysarecul](https://github.com/lulvz/raysarecul) | Ray tracer in c++ |
 
 </p>
 <!-- 
