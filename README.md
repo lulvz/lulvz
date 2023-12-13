@@ -18,6 +18,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <picture><img src = "https://i.imgur.com/JVVRWz0.gif" width = 50px></picture> **Personal Projects**
+
+<p align = "center">
+
+| Name      | Description                                                                                                                                                   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [simple_16bit_LFSR](https://github.com/lulvz/simple_16bit_LFSR) | Modular implementation of a 16-bit Linear Feedback Shift Register (LFSR) |
+| [leaguebot](https://github.com/lulvz/leaguebot) | LeagueBot is a voice-controlled bot for the popular online game, League of Legends. It is designed with modularity in mind, allowing for easy extension and addition of new champions. |
+| [gatetool](https://github.com/lulvz/gatetool) | Raspberry pi focused automatic gate opener. Uses rpitx and Golang for the backend, and provides api endpoints to select from multiple gates that have been setup. |
+| [raysarecul](https://github.com/lulvz/raysarecul) | Ray tracer in c++. |
+
+</p>
+
+## <picture><img src = "https://i.imgur.com/L16RdNI.gif" width = 50px></picture> **University Projects**
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
