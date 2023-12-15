@@ -39,6 +39,7 @@
 | [Bomberman Clone](https://github.com/lulvz/LDTS) | A Bomberman clone made in Java |
 | [Link Layer Protocol](https://github.com/lulvz/rcom_projeto) | Link Layer protocol implementation in C with error handling |
 | [Recipe Wizard](https://github.com/lulvz/ES) | Flutter app that facilitates recipe browsing and searching by ingredient with an intuitive and responsive UI |
+| [Schedule Manager](https://github.com/lulvz/AED1) | Schedule Manager to edit student's schedules in CSV files written in c++ with algorithms like binary search trees |
 
 ### Adding rest soon...
 
