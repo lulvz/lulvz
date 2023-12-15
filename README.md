@@ -30,8 +30,14 @@
 | [raysarecul](https://github.com/lulvz/raysarecul) | Ray tracer in c++ |
 
 </p>
-<!-- 
-## <picture><img src = "https://i.imgur.com/L16RdNI.gif" width = 50px></picture> **University Projects** -->
+
+## <picture><img src = "https://i.imgur.com/L16RdNI.gif" width = 50px></picture> **University Projects**
+
+| Name      | Description                                                                                                                                                   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Type Runner](https://github.com/lulvz/LCOM/tree/main/proj) | TypeRacer clone for MINIX 3 using hardware drivers and abstractions in C |
+
+### Adding rest soon...
 
 <br>
 
