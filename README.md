@@ -41,6 +41,7 @@
 | [Recipe Wizard](https://github.com/lulvz/ES) | Flutter app that facilitates recipe browsing and searching by ingredient with an intuitive and responsive UI |
 | [Schedule Manager](https://github.com/lulvz/AED1) | Schedule Manager to edit student's schedules in CSV files written in c++ with algorithms like binary search trees |
 | [Railway Manager](https://github.com/lulvz/DA) | Railway Manager to view data about train lines and deduce best paths based on flow and cost |
+| [Push Fight](https://github.com/lulvz/PFL) | Push Fight game implemented in Prolog |
 
 <br>
 
