@@ -42,8 +42,6 @@
 | [Schedule Manager](https://github.com/lulvz/AED1) | Schedule Manager to edit student's schedules in CSV files written in c++ with algorithms like binary search trees |
 | [Railway Manager](https://github.com/lulvz/DA) | Railway Manager to view data about train lines and deduce best paths based on flow and cost |
 
-### Adding rest soon...
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
