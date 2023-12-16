@@ -37,7 +37,7 @@
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Type Runner](https://github.com/lulvz/LCOM/tree/main/proj) | A typing game made for MINIX 3 using hardware drivers and abstractions in C |
 | [Bomberman Clone](https://github.com/lulvz/LDTS) | A Bomberman clone made in Java |
-| [Link Layer Protocol](https://github.com/lulvz/rcom_projeto) | Link Layer protocol implementation in C with error handling |
+| [EZFile](https://github.com/lulvz/rcom_projeto) | Transport Layer Protocol and an application layer protocol that uses it to transfer files between two computers. |
 | [Recipe Wizard](https://github.com/lulvz/ES) | Flutter app that facilitates recipe browsing and searching by ingredient with an intuitive and responsive UI |
 | [Schedule Manager](https://github.com/lulvz/AED1) | Schedule Manager to edit student's schedules in CSV files written in c++ with algorithms like binary search trees |
 | [Railway Manager](https://github.com/lulvz/DA) | Railway Manager to view data about train lines and deduce best paths based on flow and cost |
