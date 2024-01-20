@@ -166,7 +166,6 @@
 
 <br>
 
-Credit for the template: [Abdul Khalid](https://github.com/0xabdulkhalid)
 <!--
 **lulvz/lulvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
