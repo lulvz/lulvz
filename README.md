@@ -24,6 +24,7 @@
 
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [chip-8_zig](https://github.com/lulvz/chip-8_zig) | Chip-8 emulator made with Zig and OpenGL |
 | [simple_16bit_LFSR](https://github.com/lulvz/simple_16bit_LFSR) | Modular implementation of a 16-bit Linear Feedback Shift Register (LFSR) |
 | [leaguebot](https://github.com/lulvz/leaguebot) | LeagueBot is a voice-controlled bot for the popular online game, League of Legends. It is designed with modularity in mind, allowing for easy extension and addition of new champions |
 | [gatetool](https://github.com/lulvz/gatetool) | Raspberry pi focused automatic gate opener. Uses rpitx and Golang for the backend, and provides api endpoints to select from multiple gates that have been setup |
@@ -54,10 +55,10 @@
     
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br>   
     
