@@ -25,6 +25,7 @@
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [chip-8_zig](https://github.com/lulvz/chip-8_zig) | Chip-8 emulator made with Zig and OpenGL |
+| [nes_zig](https://github.com/lulvz/nes_zig) | Nes emulator written in Zig and OpenGL |
 | [simple_16bit_LFSR](https://github.com/lulvz/simple_16bit_LFSR) | Modular implementation of a 16-bit Linear Feedback Shift Register (LFSR) |
 | [leaguebot](https://github.com/lulvz/leaguebot) | LeagueBot is a voice-controlled bot for the popular online game, League of Legends. It is designed with modularity in mind, allowing for easy extension and addition of new champions |
 | [gatetool](https://github.com/lulvz/gatetool) | Raspberry pi focused automatic gate opener. Uses rpitx and Golang for the backend, and provides api endpoints to select from multiple gates that have been setup |
