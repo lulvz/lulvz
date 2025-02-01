@@ -24,6 +24,7 @@
 
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [terrain_generator](https://github.com/lulvz/terrain_generator) | Optimized terrain generator/renderer made with Zig Raylib and OpenGL |
 | [chip-8_zig](https://github.com/lulvz/chip-8_zig) | Chip-8 emulator made with Zig and OpenGL |
 | [nes_zig](https://github.com/lulvz/nes_zig) | Nes emulator written in Zig and OpenGL |
 | [simple_16bit_LFSR](https://github.com/lulvz/simple_16bit_LFSR) | Modular implementation of a 16-bit Linear Feedback Shift Register (LFSR) |
